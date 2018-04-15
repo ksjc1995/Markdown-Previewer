@@ -8,7 +8,7 @@
 
     `npm i -g node@8.9.4`
 
-3) Switch to project folder directory
+3) Switch to project directory
 
 4) Install all dependencies
 
