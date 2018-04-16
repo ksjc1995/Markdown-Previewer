@@ -17,3 +17,6 @@
 5) Run server
 
     `npm start`
+
+# Screenshot
+![alt text](https://raw.githubusercontent.com/ksjc1995/Markdown-Previewer/master/screenshots/Screenshot+from+2018-04-16+20-44-14.png)
